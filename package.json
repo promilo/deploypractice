@@ -1,10 +1,10 @@
 {
   "name": "deployable_app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"./start.sh",
+    "start": "./start.sh",
     "install": "./install.sh",
     "postInstall": "./postInstall.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
