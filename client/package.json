@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node_modules/.bin/webpack-dev-server --port=8081",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":  "node_modules/.bin/webpack"
+    "build":  "node_modules/.bin/webpack -p"
   },
   "keywords": [],
   "author": "",
