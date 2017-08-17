@@ -1,0 +1,22 @@
+{
+  "name": "deployable_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"./start.sh",
+    "install": "./install.sh",
+    "postInstall": "./postInstall.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/promilo/deploypractice.git"
+  },
+  "author": "Milind Shah",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/promilo/deploypractice/issues"
+  },
+  "homepage": "https://github.com/promilo/deploypractice#readme"
+}
